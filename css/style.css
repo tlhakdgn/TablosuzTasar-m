@@ -1,0 +1,101 @@
+body{
+    background-color: #a4af94;
+}
+header{
+    background-image: url("/img/bg_ustMavi.png");
+    background-repeat: repeat-x;
+    height: 140px;
+    width: 980px;
+    margin: auto;
+}
+
+header img{
+    position: relative;
+    left: 15px;
+    top: 40px;
+}
+
+header nav{
+    height: 30px;
+    width: 918px;
+    margin-top: -84px;
+    background-image: url("/img/bg_navBar.gif");
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+}
+
+.section-1{
+    background-image: url("/img/bg_ustGri.png");
+    background-repeat: repeat-x;
+    width: 980px;
+    height: 80px;
+    margin: auto;
+}
+
+section p{
+    position: relative;
+    bottom: -20px;
+    margin-left: 5%;
+    color: aliceblue;
+}
+
+.karakter{
+    position: relative;
+    float: right;
+    top: -178px;
+    right: 15px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 0px 25px 0px 60px;
+}
+
+.box{
+    background-image: url("/img/bg_solKutu.gif");
+    width: 300px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 2px solid #deeccc;
+}
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+
+#left{
+    float: left;
+}
+
+#right{
+    float: right;
+    padding: 40px;
+    background-color: white;
+    border: 1px #b5bdac solid;
+    width: 550px;
+    line-height: 1em;
+}
+
+.clear{
+    clear:both;
+}
+
+.section-2{
+    background-color: rgb(102, 96, 96);
+    width: 980px;
+    height: 90px;
+    margin-left: 172px;
+}
+
+footer{
+    background-color: rgb(44, 36, 36);
+    width: 980px;
+    height: 90px;
+    margin-left: 172px;
+}
